@@ -2,11 +2,11 @@
 # Household-inventory-application.
 This a console C++ Application that performs Household inventory management .
 
-## Requirement
+# Requirement
 C++11
 
-## Contributing
+# Contributing
 wELCOME!
 
-## License
+# License
 GPL-3.0 License
