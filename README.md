@@ -1,5 +1,5 @@
-# Household-inventory-application
-This a console C++ Application that performs Household inventory management 
+# Household-inventory-application.
+This a console C++ Application that performs Household inventory management .
 
 ## Requirement
 C++11
